@@ -7,9 +7,9 @@ Material del SummerCamp de Incibe 2025
 - [LinuxCheatsheet](Cheatsheets/LinuxCheatsheet.md)
 - [GoogleDorkCheatsheet](Cheatsheets/GoogleDorkCheatsheet.md)
 
-## Instalación
+## Kali
 
-Para instalar en una Kali Linux basta con ejecutar el script `setup.sh`.
+Instalacion en una [Kali Linux](https://www.kali.org/) las herramientas del curso.
 
 ```bash
 # Descargar el script
