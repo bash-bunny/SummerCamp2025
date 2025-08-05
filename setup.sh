@@ -81,8 +81,8 @@ cd ~/Desktop
 wget https://raw.githubusercontent.com/bash-bunny/SummerCamp2025/refs/heads/main/Cheatsheets/LinuxCheatsheet.md
 wget https://raw.githubusercontent.com/bash-bunny/SummerCamp2025/refs/heads/main/Cheatsheets/GoogleDorkCheatsheet.md
 # Convert it to PDF
-pandoc LinuxCheatsheet.md -o LinuxCheatsheet.pdf --pdf-engine=xelatex
-pandoc GoogleDorkCheatsheet.md -o GoogleDorkCheatsheet.pdf --pdf-engine=xelatex
+pandoc LinuxCheatsheet.md -o LinuxCheatsheet.pdf
+pandoc GoogleDorkCheatsheet.md -o GoogleDorkCheatsheet.pdf
 
 # Reboot
 echo "Rebooting the machine..."
