@@ -13,6 +13,8 @@ Para instalar en una Kali Linux basta con ejecutar el script `setup.sh`.
 
 ```bash
 # Descargar el script
+cd
+wget https://raw.githubusercontent.com/bash-bunny/SummerCamp2025/refs/heads/main/setup.sh
 # Darle permisos
 chmod u+x ./setup.sh
 # Ejecutarlo
