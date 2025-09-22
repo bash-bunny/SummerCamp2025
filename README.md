@@ -13,7 +13,7 @@ Instalacion en una [Kali Linux](https://www.kali.org/) las herramientas del curs
 
 ```bash
 # Descargar el script
-git clone https://github.com/bash-bunny/SummerCamp2025.git
+git clone https://github.com/bash-bunny/SummerCamp2025.git && cd SummerCamp2025/
 # Darle permisos
 chmod u+x ./setup.sh
 # Ejecutarlo
